@@ -19,8 +19,9 @@ Antes de criar uma peça importante, liste a pasta de novo (`list-folder-items`)
 1. Para um carrossel novo, **copie** um carrossel de referência (`copy-design`) e edite a cópia (troque textos, imagens, reorganize). Nunca edite os originais da pasta.
 2. Mova o design novo para a pasta oficial (`move-item-to-folder`).
 3. Mostre o preview ao usuário e só faça `commit` da edição depois da aprovação.
-4. Formato padrão: retrato para feed do Instagram. Mantenha **o mesmo tamanho em todas as páginas** do carrossel.
-5. Não é possível publicar direto no Instagram: entregue o link do Canva (ou os PNGs exportados) para o usuário postar.
+4. Formato padrão: retrato **1080 × 1440 px** (3:4), o tamanho da maioria das páginas da pasta. Mantenha **o mesmo tamanho em todas as páginas** do carrossel.
+5. Headlines: use a fonte condensada dos carrosséis de referência. O jeito mais seguro é partir de uma cópia de um carrossel existente e reaproveitar as caixas de texto de headline (ex.: a headline de capa do Trump-Xi, `fontRef YACgEcYqQ-A`, e as do slide 5, `fontRef YACgEQY10lw`), em vez de criar texto novo do zero.
+6. Não é possível publicar direto no Instagram: entregue o link do Canva (ou os PNGs exportados) para o usuário postar.
 
 ## Padrões observados na pasta (referência real)
 
@@ -68,7 +69,8 @@ Paleta:
 
 Tipografia:
 
-- **Space Grotesk** → headlines, títulos, palavras de impacto
+- **Fonte condensada** (a mesma dos carrosséis da pasta) → headlines de capa e de impacto, em caixa alta. Decisão oficial: a condensada é a fonte de headline da FREK e substitui a Space Grotesk nas headlines.
+- **Space Grotesk** → títulos secundários e palavras de impacto menores
 - **Inter** → textos, subtítulos, explicações
 - **IBM Plex Mono** → datas, números, tags, países, fontes, microdados, status
 
