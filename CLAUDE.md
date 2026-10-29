@@ -21,7 +21,9 @@ Antes de criar uma peça importante, liste a pasta de novo (`list-folder-items`)
 3. Mostre o preview ao usuário e só faça `commit` da edição depois da aprovação.
 4. Formato padrão: retrato **1080 × 1440 px** (3:4), o tamanho da maioria das páginas da pasta. Mantenha **o mesmo tamanho em todas as páginas** do carrossel.
 5. Headlines: use a fonte condensada dos carrosséis de referência. O jeito mais seguro é partir de uma cópia de um carrossel existente e reaproveitar as caixas de texto de headline (ex.: a headline de capa do Trump-Xi, `fontRef YACgEcYqQ-A`, e as do slide 5, `fontRef YACgEQY10lw`), em vez de criar texto novo do zero.
-6. Não é possível publicar direto no Instagram: entregue o link do Canva (ou os PNGs exportados) para o usuário postar.
+6. Headline condensada com acento maiúsculo (À, Á, É…) da 2ª linha em diante: use entrelinha ≥ 1.05, senão o acento some na renderização.
+7. Espaço para foto: use um elemento de imagem (quadro substituível) — o usuário arrasta a foto real por cima no Canva. Nunca gere com IA foto de evento real.
+8. Não é possível publicar direto no Instagram: entregue o link do Canva (ou os PNGs exportados) para o usuário postar.
 
 ## Padrões observados na pasta (referência real)
 
